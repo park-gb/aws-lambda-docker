@@ -17,4 +17,4 @@
 - Ubuntu
 
 ## 튜토리얼
-- 개인 블로그 포스팅
+- [개인 블로그 포스팅](https://heytech.tistory.com/415)
